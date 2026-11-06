@@ -1,0 +1,8 @@
+{
+  "name": "launch-kit",
+  "description": "Launch Kit for Claude Code, free tier: two skills (writing-launch-copy, polishing-readme) that write launch copy and a README from the repo itself. All six skills: https://sidelabhq.gumroad.com/l/launch-kit",
+  "version": "1.0.0",
+  "author": { "name": "sidelabhq" },
+  "license": "LICENSE",
+  "keywords": ["launch", "indie", "marketing", "seo", "readme", "release-notes", "pricing", "gumroad", "product-hunt"]
+}
